@@ -45,17 +45,7 @@ src/
     icons/BrandIcons.jsx    GitHub / LinkedIn glyphs (drawn to match lucide's style)
 ```
 
-## Before you ship this
 
-1. **Contact links** — `src/data/content.js` → `contactLinks` has placeholder
-   GitHub, LinkedIn, and email values. Update the `href` fields, and drop a
-   real `resume.pdf` into `public/` and point the resume link at it.
-2. **Projects** — six mission cards are pre-filled from your background
-   (FlyRank, DhobiNow, Wumpus World, AmigOS, automation scripts, this site).
-   Trim, reorder, or add live-demo links as `href` fields if you'd like the
-   cards to be clickable.
-3. **Journey years** — double check the 2024 / 2025 / 2026 milestones still
-   match your actual timeline before publishing.
 
 ## Design notes
 
